@@ -15,9 +15,9 @@ This project provides the code and results for 'Texture-Semantic Collaboration N
 # Saliency maps
    We provide saliency maps saved using two different functions (imageio.imsave and cv2.imwrite) on ORSSD, EORSSD, and ORSI-4199 datasets.
    
-   Using "imageio.imsave(res_save_path+name, res)" to save saliency maps in "./models/saliencymaps_imageio.zip", termed **TSCNet_imageio** in Table I (reported in our paper).
+   Using "imageio.imsave(res_save_path+name, res)" to save saliency maps in "./models/[saliencymaps_imageio.zip](https://pan.baidu.com/s/1ytlnUknWbJFpC1hFQDniAg)"(code: 6sr5), termed **TSCNet_imageio** in Table I (reported in our paper).
    
-   Using "cv2.imwrite(save_path+name, res*256)" to save saliency maps in "./models/saliencymaps_cv2", termed **TSCNet_cv2** in Table I.
+   Using "cv2.imwrite(save_path+name, res*256)" to save saliency maps in "./models/saliencymaps_cv2.zip", termed **TSCNet_cv2** in Table I.
 
       
    ![Image](https://github.com/MathLee/TSCNet/blob/main/images/table.png)
