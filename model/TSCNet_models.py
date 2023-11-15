@@ -83,7 +83,6 @@ class ChannelAttentionJoin(nn.Module): # input channel is 2C, while output chann
         self.sigmoid = nn.Sigmoid()
 
     def forward(self, x_5, x_cur):
-        # can add the channel_shuffle to torch.cat(self.avg_pool(x_5),self.avg_pool(x_cur))
         max_out = self.fc2(self.relu1(self.fc1(torch.cat((self.avg_pool(x_5),self.avg_pool(x_cur)), 1))))
         out = max_out
         return self.sigmoid(out)
