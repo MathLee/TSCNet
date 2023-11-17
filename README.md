@@ -1,5 +1,5 @@
 # TSCNet
-This project provides the code and results for 'Texture-Semantic Collaboration Network for ORSI Salient Object Detection', IEEE TCAS-II, 2023.
+This project provides the code and results for 'Texture-Semantic Collaboration Network for ORSI Salient Object Detection', IEEE TCAS-II, 2023. [IEEE link](https://ieeexplore.ieee.org/document/10319772)
 
  
 # Network Architecture
