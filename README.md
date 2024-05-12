@@ -1,5 +1,5 @@
 # TSCNet
-This project provides the code and results for 'Texture-Semantic Collaboration Network for ORSI Salient Object Detection', IEEE TCAS-II, 2023. [IEEE link](https://ieeexplore.ieee.org/document/10319772) [Homepage](https://mathlee.github.io/)
+This project provides the code and results for 'Texture-Semantic Collaboration Network for ORSI Salient Object Detection', IEEE TCAS-II, 2024. [IEEE link](https://ieeexplore.ieee.org/document/10319772) [Homepage](https://mathlee.github.io/)
 
  
 # Network Architecture
@@ -50,11 +50,15 @@ Download the following pre-trained model, and modify paths of pre-trained model 
 # [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
    
 # Citation
-        @ARTICLE{Li_2023_TSCNet,
+        @ARTICLE{Li_2024_TSCNet,
                 author = {Gongyang Li and Zhen Bai and Zhi Liu},
                 title = {Texture-Semantic Collaboration Network for ORSI Salient Object Detection},
                 journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
-                doi={10.1109/TCSII.2023.3333436},
+                volume= {71},
+                number={4},
+                pages={2464-2468},
+                year={2024},
+                month={Apr.},
                 }
                 
                 
