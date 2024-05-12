@@ -1,5 +1,5 @@
 # TSCNet
-This project provides the code and results for 'Texture-Semantic Collaboration Network for ORSI Salient Object Detection', IEEE TCAS-II, 2024. [IEEE link](https://ieeexplore.ieee.org/document/10319772) and [arxiv link](https://arxiv.org/abs/2312.03548) [Homepage](https://mathlee.github.io/)
+This project provides the code and results for 'Texture-Semantic Collaboration Network for ORSI Salient Object Detection', IEEE TCAS-II, 2024. [IEEE link](https://ieeexplore.ieee.org/document/10319772) and [arxiv link](https://arxiv.org/abs/2312.03548), [Homepage](https://mathlee.github.io/)
 
  
 # Network Architecture
